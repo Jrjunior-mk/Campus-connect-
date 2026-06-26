@@ -1,0 +1,12 @@
+{
+  "name": "JR INVENTO",
+  "description": "Global enterprise-grade communication, networking, education, and professional ecosystem with AI-powered opportunities, navigation, and collaboration suites.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
